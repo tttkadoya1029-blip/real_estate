@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "city-life",
+    "name": "City Life",
+    "tagline": "Experience the pulse of modern Japan",
+    "description": "Discover vibrant urban centers where tradition meets innovation. From Tokyo's neon-lit streets to Osaka's bustling markets, Japanese cities offer world-class infrastructure, safety, and endless entertainment.",
+    "icon": "building",
+    "color": "#c41e3a",
+    "relatedAreas": ["tokyo", "osaka", "fukuoka", "yokohama"]
+  },
+  {
+    "slug": "traditional-culture",
+    "name": "Traditional Culture",
+    "tagline": "Live where history breathes",
+    "description": "Immerse yourself in Japan's rich cultural heritage. Ancient temples, traditional machiya houses, geisha districts, and centuries-old festivals await in Japan's cultural heartlands.",
+    "icon": "temple",
+    "color": "#1e3a5f",
+    "relatedAreas": ["kyoto", "nara", "kanazawa"]
+  },
+  {
+    "slug": "nature-escape",
+    "name": "Nature & Escape",
+    "tagline": "Find peace in natural beauty",
+    "description": "From the pristine beaches of Okinawa to the mountains of Nagano, Japan offers stunning natural landscapes perfect for those seeking tranquility and outdoor adventures.",
+    "icon": "mountain",
+    "color": "#2d5a4e",
+    "relatedAreas": ["okinawa", "nagano", "hokkaido"]
+  },
+  {
+    "slug": "food-culinary",
+    "name": "Food & Culinary",
+    "tagline": "Taste Japan every day",
+    "description": "Japan is a food lover's paradise. Live near Tsukiji's fresh seafood, Osaka's street food scene, or Kyoto's kaiseki restaurants. Experience the world's best cuisine at your doorstep.",
+    "icon": "utensils",
+    "color": "#d4a574",
+    "relatedAreas": ["tokyo", "osaka", "kyoto", "fukuoka"]
+  },
+  {
+    "slug": "ski-snow",
+    "name": "Ski & Snow",
+    "tagline": "World-class powder awaits",
+    "description": "Japan is renowned for having some of the best powder snow in the world. Niseko, Hakuba, and other resorts offer excellent skiing with the unique Japanese hospitality.",
+    "icon": "snowflake",
+    "color": "#6ab0e2",
+    "relatedAreas": ["hokkaido", "nagano"]
+  },
+  {
+    "slug": "beach-resort",
+    "name": "Beach & Resort",
+    "tagline": "Island paradise living",
+    "description": "Crystal clear waters, coral reefs, and tropical climates. Okinawa and other Japanese islands offer a completely different lifestyle with year-round warmth and stunning beaches.",
+    "icon": "umbrella-beach",
+    "color": "#40b5ad",
+    "relatedAreas": ["okinawa"]
+  },
+  {
+    "slug": "investment",
+    "name": "Investment",
+    "tagline": "Strategic property investment",
+    "description": "Japan offers stable returns in a mature, transparent market. From high-yield apartments in Tokyo to vacation rentals in resort areas, discover investment opportunities with reliable returns.",
+    "icon": "chart-line",
+    "color": "#9a1830",
+    "relatedAreas": ["tokyo", "osaka", "fukuoka", "hokkaido"]
+  }
+]

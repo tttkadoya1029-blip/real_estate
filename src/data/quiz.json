@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What attracts you most to Japan?",
+      "options": [
+        {
+          "text": "Vibrant city life and modern culture",
+          "scores": { "tokyo": 3, "osaka": 2, "fukuoka": 2, "yokohama": 2 }
+        },
+        {
+          "text": "Traditional culture and history",
+          "scores": { "kyoto": 3, "tokyo": 1 }
+        },
+        {
+          "text": "Nature, mountains, or beaches",
+          "scores": { "okinawa": 3, "hokkaido": 3, "nagano": 3 }
+        },
+        {
+          "text": "Food and culinary experiences",
+          "scores": { "osaka": 3, "tokyo": 2, "fukuoka": 2, "kyoto": 1 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What's your ideal climate?",
+      "options": [
+        {
+          "text": "Four distinct seasons with hot summers",
+          "scores": { "tokyo": 2, "osaka": 2, "kyoto": 2, "fukuoka": 2, "yokohama": 2 }
+        },
+        {
+          "text": "Year-round warmth and tropical weather",
+          "scores": { "okinawa": 3 }
+        },
+        {
+          "text": "Cool climate with snowy winters",
+          "scores": { "hokkaido": 3, "nagano": 3 }
+        },
+        {
+          "text": "Moderate climate without extreme heat",
+          "scores": { "hokkaido": 2, "nagano": 2, "fukuoka": 1 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What's your primary purpose?",
+      "options": [
+        {
+          "text": "Primary residence / relocation",
+          "scores": { "tokyo": 2, "osaka": 2, "fukuoka": 2, "yokohama": 2 }
+        },
+        {
+          "text": "Investment property for rental income",
+          "scores": { "tokyo": 2, "osaka": 3, "fukuoka": 2, "hokkaido": 2 }
+        },
+        {
+          "text": "Vacation home / second home",
+          "scores": { "okinawa": 3, "hokkaido": 3, "nagano": 2, "kyoto": 2 }
+        },
+        {
+          "text": "Mix of personal use and rental",
+          "scores": { "hokkaido": 3, "okinawa": 2, "kyoto": 2, "nagano": 2 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What's your budget range?",
+      "options": [
+        {
+          "text": "Under $200,000",
+          "scores": { "fukuoka": 3, "osaka": 2, "hokkaido": 2, "nagano": 2 }
+        },
+        {
+          "text": "$200,000 - $500,000",
+          "scores": { "osaka": 2, "fukuoka": 2, "kyoto": 2, "yokohama": 2, "okinawa": 2, "nagano": 2 }
+        },
+        {
+          "text": "$500,000 - $1,000,000",
+          "scores": { "tokyo": 2, "kyoto": 2, "yokohama": 2, "okinawa": 2, "hokkaido": 2 }
+        },
+        {
+          "text": "Over $1,000,000",
+          "scores": { "tokyo": 3, "kyoto": 2, "yokohama": 2 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What lifestyle feature is most important to you?",
+      "options": [
+        {
+          "text": "Excellent public transportation and walkability",
+          "scores": { "tokyo": 3, "osaka": 3, "yokohama": 2, "fukuoka": 2 }
+        },
+        {
+          "text": "Outdoor activities (skiing, hiking, diving)",
+          "scores": { "hokkaido": 3, "nagano": 3, "okinawa": 3 }
+        },
+        {
+          "text": "Cultural experiences (temples, traditional arts)",
+          "scores": { "kyoto": 3, "tokyo": 1 }
+        },
+        {
+          "text": "Work-life balance and relaxed pace",
+          "scores": { "fukuoka": 3, "okinawa": 2, "nagano": 2 }
+        }
+      ]
+    }
+  ],
+  "propertyTypeMapping": {
+    "tokyo": ["Apartment", "Tower Mansion"],
+    "osaka": ["Apartment", "Investment 1R"],
+    "kyoto": ["Machiya", "Modern Apartment"],
+    "fukuoka": ["Apartment", "Investment Property"],
+    "hokkaido": ["Ski Condo", "Vacation House"],
+    "okinawa": ["Resort Condo", "Beach House"],
+    "nagano": ["Mountain Chalet", "Ski Property"],
+    "yokohama": ["Tower Mansion", "Family Apartment"]
+  }
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "faq-001",
+    "category": "Buying Process",
+    "question": "Can foreigners buy property in Japan?",
+    "answer": "Yes! Japan has no restrictions on foreign property ownership. Non-residents can purchase property with the same rights as Japanese citizens. You don't need a visa or residency status to buy real estate in Japan."
+  },
+  {
+    "id": "faq-002",
+    "category": "Buying Process",
+    "question": "What is the typical buying process timeline?",
+    "answer": "The typical process takes 1-3 months: Property search (varies), offer and negotiation (1-2 weeks), contract signing with 10% deposit (1 week), due diligence period (2-4 weeks), and final settlement with remaining payment. Cash purchases are faster; mortgages add 2-4 weeks."
+  },
+  {
+    "id": "faq-003",
+    "category": "Buying Process",
+    "question": "What are the buying costs beyond the property price?",
+    "answer": "Budget approximately 6-8% additional for: Real estate agent fee (3% + ¥60,000 + tax), Registration and stamp taxes (1-2%), Legal/judicial scrivener fees (¥100,000-300,000), and Property acquisition tax (3-4%, paid later). These are one-time costs at purchase."
+  },
+  {
+    "id": "faq-004",
+    "category": "Financing",
+    "question": "Can foreigners get mortgages in Japan?",
+    "answer": "It's challenging but possible. Requirements typically include: Permanent residency or spouse of Japanese national, Stable employment in Japan for 2-3+ years, Japanese credit history. Some banks offer non-resident loans at higher rates (3-4%) with larger down payments (30-50%). Many foreign buyers choose cash purchases."
+  },
+  {
+    "id": "faq-005",
+    "category": "Financing",
+    "question": "What are current mortgage rates in Japan?",
+    "answer": "Japan has some of the world's lowest mortgage rates. Variable rates start around 0.3-0.5% for qualified Japanese residents. Fixed rates (10-35 years) range from 1-2%. Non-resident rates are higher, typically 2.5-4%. Rates have remained low for decades."
+  },
+  {
+    "id": "faq-006",
+    "category": "Taxes",
+    "question": "What ongoing taxes will I pay as a property owner?",
+    "answer": "Annual taxes include: Fixed Asset Tax (approximately 1.4% of assessed value, which is usually lower than market value), City Planning Tax (0.3% in urban areas). For a typical ¥50 million property, expect ¥100,000-200,000 yearly in property taxes."
+  },
+  {
+    "id": "faq-007",
+    "category": "Taxes",
+    "question": "What about taxes on rental income?",
+    "answer": "Rental income is taxable in Japan regardless of residency. Non-residents face 20.42% withholding tax on gross rent. You may be able to claim deductions and potentially receive refunds by filing a tax return. Tax treaties may provide relief in your home country."
+  },
+  {
+    "id": "faq-008",
+    "category": "Property Management",
+    "question": "How do I manage a property from overseas?",
+    "answer": "Property management companies handle everything remotely: tenant finding, rent collection, maintenance, and emergencies. Typical fees are 5-8% of monthly rent for residential, 10-15% for vacation rentals. Many companies offer English service and online reporting."
+  },
+  {
+    "id": "faq-009",
+    "category": "Property Management",
+    "question": "What are typical condominium management fees?",
+    "answer": "Condos have monthly fees for building maintenance and repairs: Management fee (管理費): ¥10,000-30,000/month, Repair reserve (修繕積立金): ¥5,000-20,000/month. Older buildings and those with amenities (gym, concierge) have higher fees. Always check the building's financial health."
+  },
+  {
+    "id": "faq-010",
+    "category": "Investment",
+    "question": "What rental yields can I expect?",
+    "answer": "Yields vary by location and property type: Tokyo central (3-4%), Tokyo suburbs (4-5%), Osaka/Regional cities (5-7%), Vacation rentals (6-10%+ but seasonal). Japan offers stable, predictable returns rather than high capital appreciation."
+  },
+  {
+    "id": "faq-011",
+    "category": "Investment",
+    "question": "Is Japan property a good investment?",
+    "answer": "Japan offers: Stable rental income in a mature market, Low interest rates for leverage, Transparent legal system, No foreign ownership restrictions, Weak yen opportunities. However, most areas see limited capital appreciation, and the population is declining. It's best suited for income-focused investors."
+  },
+  {
+    "id": "faq-012",
+    "category": "Legal",
+    "question": "Do I need a lawyer to buy property?",
+    "answer": "A lawyer isn't legally required but is recommended for foreigners. A judicial scrivener (司法書士) handles registration. Consider a bilingual lawyer for: Contract review, Due diligence, Complex transactions, Company structures. Budget ¥100,000-500,000 for legal support."
+  },
+  {
+    "id": "faq-013",
+    "category": "Legal",
+    "question": "Can I use my property for short-term rentals (Airbnb)?",
+    "answer": "Japan's minpaku (vacation rental) law requires: Registration with local government, Maximum 180 days/year in most areas (some allow year-round), Meeting fire and safety standards. Some buildings prohibit short-term rentals entirely. Check local rules and building regulations before purchasing for this purpose."
+  },
+  {
+    "id": "faq-014",
+    "category": "Lifestyle",
+    "question": "Can I get a visa by buying property?",
+    "answer": "Property ownership alone does not qualify you for a visa. Japan doesn't have an investor visa tied to real estate purchase. Options include: Business Manager visa (requires active business), Highly Skilled Professional visa, Spouse visa, or Tourist visa (90 days, no work). Consult an immigration lawyer for your situation."
+  },
+  {
+    "id": "faq-015",
+    "category": "Lifestyle",
+    "question": "How difficult is it to live in Japan without speaking Japanese?",
+    "answer": "It varies by location. Tokyo, Osaka, and tourist areas have more English support. Challenges include: Contracts and official documents in Japanese, Limited English at government offices, Most real estate transactions in Japanese. Working with bilingual agents and property managers makes ownership manageable without Japanese ability."
+  }
+]

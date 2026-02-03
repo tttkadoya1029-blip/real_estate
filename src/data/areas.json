@@ -1,0 +1,343 @@
+[
+  {
+    "slug": "tokyo",
+    "name": "Tokyo",
+    "nameJa": "東京",
+    "tagline": "The beating heart of Japan",
+    "description": "Tokyo is a city of contrasts where ultramodern skyscrapers stand alongside historic temples. As the world's largest metropolitan area, it offers unparalleled convenience, safety, and endless opportunities for work and play. From the fashion-forward streets of Shibuya to the traditional gardens of Asakusa, Tokyo has something for everyone.",
+    "heroImage": "/images/areas/tokyo.jpg",
+    "accessFromAirport": "35-90 min from Narita/Haneda",
+    "averageRent": "$1,500 - $3,000/month",
+    "priceRange": "$300K - $2M+",
+    "safetyRating": 5,
+    "foreignerFriendly": 5,
+    "seasons": [
+      { "name": "Spring", "description": "Cherry blossoms in late March-April. Mild temperatures perfect for exploring." },
+      { "name": "Summer", "description": "Hot and humid with festivals and fireworks. Air conditioning is essential." },
+      { "name": "Autumn", "description": "Beautiful foliage in November. Comfortable temperatures." },
+      { "name": "Winter", "description": "Mild and dry. Great for sightseeing without crowds." }
+    ],
+    "fitFor": [
+      "Urban professionals seeking career opportunities",
+      "Food enthusiasts with access to 200+ Michelin-starred restaurants",
+      "Tech and startup ecosystem participants",
+      "Those who value convenience and public transportation",
+      "Investors looking for stable rental yields"
+    ],
+    "notFor": [
+      "Those seeking large living spaces on a budget",
+      "People who prefer quiet, rural environments",
+      "Those uncomfortable with crowds and busy streets"
+    ],
+    "relatedGenres": ["city-life", "food-culinary", "investment"],
+    "highlights": [
+      "World's safest major city",
+      "Extensive 24/7 public transportation",
+      "Over 160,000 restaurants",
+      "Global business hub"
+    ],
+    "propertyTypes": [
+      { "type": "Apartment/Condo", "description": "Most common. Modern buildings with security and amenities.", "priceRange": "$300K - $1.5M" },
+      { "type": "Tower Mansion", "description": "High-rise luxury condos with concierge, gym, and views.", "priceRange": "$800K - $5M+" },
+      { "type": "Vintage Mansion", "description": "Older condos in prime locations. Often larger and more affordable.", "priceRange": "$200K - $600K" }
+    ]
+  },
+  {
+    "slug": "osaka",
+    "name": "Osaka",
+    "nameJa": "大阪",
+    "tagline": "Japan's kitchen and comedy capital",
+    "description": "Osaka is known for its outgoing locals, incredible street food, and vibrant nightlife. More affordable than Tokyo but equally dynamic, it's Japan's second-largest city with excellent infrastructure and a unique character. The city is famous for its direct, friendly people and its unofficial motto: 'kuidaore' (eat until you drop).",
+    "heroImage": "/images/areas/osaka.jpg",
+    "accessFromAirport": "50 min from Kansai International Airport",
+    "averageRent": "$800 - $1,800/month",
+    "priceRange": "$150K - $800K",
+    "safetyRating": 5,
+    "foreignerFriendly": 4,
+    "seasons": [
+      { "name": "Spring", "description": "Cherry blossoms at Osaka Castle. Pleasant weather." },
+      { "name": "Summer", "description": "Hot and humid. Famous Tenjin Festival in July." },
+      { "name": "Autumn", "description": "Comfortable temperatures. Great for exploring." },
+      { "name": "Winter", "description": "Mild compared to Tokyo. Light jacket weather." }
+    ],
+    "fitFor": [
+      "Food lovers who want daily access to amazing street food",
+      "Budget-conscious buyers seeking value",
+      "Those who prefer a more relaxed, friendly atmosphere",
+      "Business travelers needing Kansai region access",
+      "Investors seeking higher yields than Tokyo"
+    ],
+    "notFor": [
+      "Those who prefer Tokyo's sophistication and pace",
+      "People who need maximum English support"
+    ],
+    "relatedGenres": ["city-life", "food-culinary", "investment"],
+    "highlights": [
+      "Food capital of Japan",
+      "30% more affordable than Tokyo",
+      "Easy access to Kyoto and Nara",
+      "Warm, welcoming locals"
+    ],
+    "propertyTypes": [
+      { "type": "Apartment/Condo", "description": "Modern units in the city center with good transit access.", "priceRange": "$150K - $500K" },
+      { "type": "Investment 1R", "description": "Single-room apartments popular with investors. High yield potential.", "priceRange": "$80K - $200K" },
+      { "type": "Family House", "description": "Detached homes in residential areas.", "priceRange": "$300K - $600K" }
+    ]
+  },
+  {
+    "slug": "kyoto",
+    "name": "Kyoto",
+    "nameJa": "京都",
+    "tagline": "Where tradition lives",
+    "description": "The ancient capital of Japan, Kyoto is a living museum of Japanese culture. With 17 UNESCO World Heritage sites, thousands of temples and shrines, and preserved traditional neighborhoods, it offers a unique lifestyle immersed in history. Despite its traditional image, Kyoto is also home to major universities and tech companies.",
+    "heroImage": "/images/areas/kyoto.jpg",
+    "accessFromAirport": "75 min from Kansai International Airport",
+    "averageRent": "$700 - $1,500/month",
+    "priceRange": "$200K - $1M+",
+    "safetyRating": 5,
+    "foreignerFriendly": 4,
+    "seasons": [
+      { "name": "Spring", "description": "Iconic cherry blossoms. Peak tourist season." },
+      { "name": "Summer", "description": "Hot with the famous Gion Festival in July." },
+      { "name": "Autumn", "description": "Spectacular fall foliage at temples. Very popular." },
+      { "name": "Winter", "description": "Quiet and atmospheric. Occasional snow on temples." }
+    ],
+    "fitFor": [
+      "Culture enthusiasts and history lovers",
+      "Those seeking a quieter, more traditional lifestyle",
+      "Artists, writers, and creative professionals",
+      "Academics and researchers",
+      "Those interested in traditional Japanese arts"
+    ],
+    "notFor": [
+      "Those seeking vibrant nightlife",
+      "People who prefer modern architecture",
+      "Those uncomfortable with seasonal tourist crowds"
+    ],
+    "relatedGenres": ["traditional-culture", "food-culinary"],
+    "highlights": [
+      "17 UNESCO World Heritage sites",
+      "Traditional machiya townhouses available",
+      "Rich arts and crafts scene",
+      "15 minutes to Osaka by train"
+    ],
+    "propertyTypes": [
+      { "type": "Machiya", "description": "Traditional wooden townhouse. Renovated options available.", "priceRange": "$300K - $1.5M" },
+      { "type": "Modern Apartment", "description": "Contemporary units with traditional area access.", "priceRange": "$200K - $500K" },
+      { "type": "Kominka", "description": "Renovated traditional house. Popular for guesthouses.", "priceRange": "$400K - $2M" }
+    ]
+  },
+  {
+    "slug": "fukuoka",
+    "name": "Fukuoka",
+    "nameJa": "福岡",
+    "tagline": "Japan's most livable city",
+    "description": "Consistently ranked as Japan's most livable city, Fukuoka offers the perfect balance of urban convenience and relaxed lifestyle. Located on the northern shore of Kyushu, it's closer to Seoul than Tokyo, making it a gateway to Asia. The city is famous for its yatai (street food stalls), beautiful beaches, and thriving startup scene.",
+    "heroImage": "/images/areas/fukuoka.jpg",
+    "accessFromAirport": "5 min by subway from Fukuoka Airport",
+    "averageRent": "$600 - $1,200/month",
+    "priceRange": "$100K - $500K",
+    "safetyRating": 5,
+    "foreignerFriendly": 4,
+    "seasons": [
+      { "name": "Spring", "description": "Mild and pleasant. Cherry blossoms in early April." },
+      { "name": "Summer", "description": "Hot and humid but cooled by sea breezes." },
+      { "name": "Autumn", "description": "Best season. Comfortable temperatures." },
+      { "name": "Winter", "description": "Milder than Tokyo. Rarely snows." }
+    ],
+    "fitFor": [
+      "Digital nomads and remote workers",
+      "Those seeking work-life balance",
+      "Food lovers (famous for tonkotsu ramen and yatai)",
+      "Startups and entrepreneurs",
+      "Beach and nature lovers"
+    ],
+    "notFor": [
+      "Those needing maximum English support",
+      "People requiring direct international flights to many destinations"
+    ],
+    "relatedGenres": ["city-life", "food-culinary", "investment"],
+    "highlights": [
+      "Airport 5 min from city center",
+      "Growing startup ecosystem",
+      "Beach within city limits",
+      "Excellent value for money"
+    ],
+    "propertyTypes": [
+      { "type": "New Apartment", "description": "Modern condos with sea views available.", "priceRange": "$150K - $400K" },
+      { "type": "Investment Property", "description": "High-yield apartments near universities and business districts.", "priceRange": "$60K - $150K" },
+      { "type": "Family House", "description": "Spacious homes in residential areas.", "priceRange": "$200K - $400K" }
+    ]
+  },
+  {
+    "slug": "hokkaido",
+    "name": "Hokkaido",
+    "nameJa": "北海道",
+    "tagline": "Japan's northern frontier",
+    "description": "Japan's northernmost island offers a completely different experience: wide-open spaces, world-class skiing, fresh seafood, and a frontier spirit. Sapporo, the capital, is a modern city with excellent infrastructure, while resort towns like Niseko attract international visitors year-round.",
+    "heroImage": "/images/areas/hokkaido.jpg",
+    "accessFromAirport": "40 min from New Chitose Airport to Sapporo",
+    "averageRent": "$500 - $1,000/month",
+    "priceRange": "$80K - $1M+",
+    "safetyRating": 5,
+    "foreignerFriendly": 4,
+    "seasons": [
+      { "name": "Spring", "description": "Late spring blooms in May. Cool temperatures." },
+      { "name": "Summer", "description": "Perfect weather. Escape from mainland heat." },
+      { "name": "Autumn", "description": "Early fall colors. Harvest season." },
+      { "name": "Winter", "description": "Heavy snowfall. World-famous powder snow." }
+    ],
+    "fitFor": [
+      "Ski and snowboard enthusiasts",
+      "Those who love four distinct seasons",
+      "Fresh seafood lovers",
+      "People seeking space and nature",
+      "Vacation rental investors"
+    ],
+    "notFor": [
+      "Those who dislike cold winters",
+      "People needing year-round warm weather",
+      "Those requiring major city convenience"
+    ],
+    "relatedGenres": ["ski-snow", "nature-escape", "investment"],
+    "highlights": [
+      "World-famous powder snow",
+      "Fresh seafood paradise",
+      "Cool summers (no AC needed)",
+      "Growing international community in Niseko"
+    ],
+    "propertyTypes": [
+      { "type": "Ski Condo", "description": "Slope-side or resort area units. Popular for rental income.", "priceRange": "$200K - $1M+" },
+      { "type": "Sapporo Apartment", "description": "Urban living with all conveniences.", "priceRange": "$100K - $300K" },
+      { "type": "Vacation House", "description": "Standalone properties for personal use or rental.", "priceRange": "$150K - $500K" }
+    ]
+  },
+  {
+    "slug": "okinawa",
+    "name": "Okinawa",
+    "nameJa": "沖縄",
+    "tagline": "Tropical paradise in Japan",
+    "description": "Okinawa offers a completely different Japan: tropical climate, crystal-clear waters, unique Ryukyu culture, and a laid-back island lifestyle. The 'Hawaii of Japan' attracts those seeking year-round warmth, water sports, and a slower pace of life while still enjoying Japanese safety and infrastructure.",
+    "heroImage": "/images/areas/okinawa.jpg",
+    "accessFromAirport": "15 min from Naha Airport to city center",
+    "averageRent": "$500 - $1,200/month",
+    "priceRange": "$100K - $800K",
+    "safetyRating": 5,
+    "foreignerFriendly": 4,
+    "seasons": [
+      { "name": "Spring", "description": "Warm and pleasant. Cherry blossoms in January-February." },
+      { "name": "Summer", "description": "Hot but with ocean breezes. Typhoon season June-October." },
+      { "name": "Autumn", "description": "Still warm. Great for beach activities." },
+      { "name": "Winter", "description": "Mild (15-20°C). Whale watching season." }
+    ],
+    "fitFor": [
+      "Beach and water sports enthusiasts",
+      "Retirees seeking warm climate",
+      "Those escaping cold winters",
+      "Divers and snorkelers",
+      "Those interested in unique Ryukyu culture"
+    ],
+    "notFor": [
+      "Those who prefer big city life",
+      "People uncomfortable with typhoon season",
+      "Those needing direct international flights"
+    ],
+    "relatedGenres": ["beach-resort", "nature-escape"],
+    "highlights": [
+      "Year-round warm climate",
+      "World-class diving and beaches",
+      "Unique Ryukyu culture and cuisine",
+      "Longest life expectancy in Japan"
+    ],
+    "propertyTypes": [
+      { "type": "Resort Condo", "description": "Ocean-view units with resort amenities.", "priceRange": "$200K - $600K" },
+      { "type": "Beach House", "description": "Standalone properties near beaches.", "priceRange": "$300K - $800K" },
+      { "type": "Naha Apartment", "description": "Urban convenience in the capital city.", "priceRange": "$100K - $300K" }
+    ]
+  },
+  {
+    "slug": "nagano",
+    "name": "Nagano",
+    "nameJa": "長野",
+    "tagline": "Mountain life meets modern comfort",
+    "description": "Host of the 1998 Winter Olympics, Nagano offers stunning mountain scenery, world-class ski resorts like Hakuba, and easy access to Tokyo via shinkansen. The region is perfect for those seeking outdoor activities, hot springs, and a connection to nature while remaining connected to urban conveniences.",
+    "heroImage": "/images/areas/nagano.jpg",
+    "accessFromAirport": "90 min from Tokyo by shinkansen",
+    "averageRent": "$400 - $900/month",
+    "priceRange": "$80K - $600K",
+    "safetyRating": 5,
+    "foreignerFriendly": 3,
+    "seasons": [
+      { "name": "Spring", "description": "Mountain flowers bloom. Hiking season begins." },
+      { "name": "Summer", "description": "Cool mountain air. Escape the heat." },
+      { "name": "Autumn", "description": "Spectacular mountain foliage." },
+      { "name": "Winter", "description": "Heavy snow. Excellent skiing conditions." }
+    ],
+    "fitFor": [
+      "Skiing and snowboarding enthusiasts",
+      "Hikers and outdoor sports lovers",
+      "Those seeking weekend Tokyo escape",
+      "Hot spring (onsen) lovers",
+      "Remote workers wanting nature access"
+    ],
+    "notFor": [
+      "Those needing big city conveniences daily",
+      "People who prefer warm climates",
+      "Those without a car (for rural areas)"
+    ],
+    "relatedGenres": ["ski-snow", "nature-escape"],
+    "highlights": [
+      "90 min to Tokyo by bullet train",
+      "World-class ski resorts (Hakuba, Nozawa)",
+      "Famous hot springs",
+      "Apple and wine country"
+    ],
+    "propertyTypes": [
+      { "type": "Ski Chalet", "description": "Properties in or near ski resorts.", "priceRange": "$200K - $600K" },
+      { "type": "Mountain House", "description": "Traditional or modern houses with mountain views.", "priceRange": "$100K - $400K" },
+      { "type": "Nagano City Apartment", "description": "Urban base with easy mountain access.", "priceRange": "$80K - $200K" }
+    ]
+  },
+  {
+    "slug": "yokohama",
+    "name": "Yokohama",
+    "nameJa": "横浜",
+    "tagline": "Tokyo's waterfront neighbor",
+    "description": "Japan's second-largest city by population, Yokohama offers a unique blend of international heritage, modern bay-side living, and easy Tokyo access. The city has a more relaxed feel than Tokyo while offering world-class dining, shopping, and entertainment along its famous waterfront.",
+    "heroImage": "/images/areas/yokohama.jpg",
+    "accessFromAirport": "30 min from Haneda Airport",
+    "averageRent": "$900 - $2,000/month",
+    "priceRange": "$200K - $1M",
+    "safetyRating": 5,
+    "foreignerFriendly": 5,
+    "seasons": [
+      { "name": "Spring", "description": "Cherry blossoms along the bay. Pleasant temperatures." },
+      { "name": "Summer", "description": "Sea breezes help moderate the heat." },
+      { "name": "Autumn", "description": "Clear skies and comfortable weather." },
+      { "name": "Winter", "description": "Mild winters with spectacular holiday illuminations." }
+    ],
+    "fitFor": [
+      "Those wanting Tokyo access with more space",
+      "Families seeking good schools and parks",
+      "International community seekers",
+      "Food lovers (Chinatown, international cuisine)",
+      "Those who prefer waterfront living"
+    ],
+    "notFor": [
+      "Those wanting to be in central Tokyo",
+      "People seeking traditional Japanese atmosphere"
+    ],
+    "relatedGenres": ["city-life", "food-culinary"],
+    "highlights": [
+      "30 min to central Tokyo",
+      "Japan's largest Chinatown",
+      "Beautiful waterfront development",
+      "Strong international community"
+    ],
+    "propertyTypes": [
+      { "type": "Bay Area Condo", "description": "Modern high-rises with water views.", "priceRange": "$400K - $1M" },
+      { "type": "Family Apartment", "description": "Spacious units in residential areas.", "priceRange": "$250K - $600K" },
+      { "type": "Historic Area Property", "description": "Character properties in Yamate/Motomachi.", "priceRange": "$300K - $800K" }
+    ]
+  }
+]

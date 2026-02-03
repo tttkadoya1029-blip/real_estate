@@ -1,36 +1,155 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# JapanHome - Japanese Real Estate for International Buyers
+
+A content-driven website helping international buyers discover and purchase property in Japan. Built with Next.js 14, TypeScript, and Tailwind CSS.
+
+## Features
+
+- **Interest-based Discovery**: Explore Japan through genres like City Life, Traditional Culture, Nature & Escape
+- **Area Guides**: Detailed guides for 8 Japanese regions with lifestyle fit assessment
+- **Property Listings**: Sample properties with pricing, yields, and features
+- **Interactive Quiz**: 5-question quiz to match users with ideal areas and property types
+- **Educational Content**: Complete guide to buying property in Japan with FAQ
+- **Contact Form**: Structured inquiry form for lead generation
+
+## Tech Stack
+
+- **Framework**: Next.js 14 (App Router)
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS v4
+- **Deployment**: Vercel-ready
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+
+- Node.js 18+
+- npm
+
+### Installation
 
 ```bash
+# Clone the repository
+git clone https://github.com/tttkadoya1029-blip/real_estate.git
+
+# Navigate to project directory
+cd japan-real-estate
+
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view the site.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+# Create production build
+npm run build
 
-## Learn More
+# Start production server
+npm start
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Project Structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+src/
+├── app/                    # Next.js App Router pages
+│   ├── page.tsx           # Home page
+│   ├── genre/[slug]/      # Genre landing pages
+│   ├── area/[slug]/       # Area guide pages
+│   ├── properties/        # Property listings
+│   ├── why-japan/         # Educational content
+│   ├── contact/           # Contact form
+│   └── quiz/              # Interactive quiz
+├── components/            # React components
+│   ├── layout/           # Header, Footer
+│   ├── home/             # Home page components
+│   ├── shared/           # Reusable components
+│   └── ...
+├── data/                  # JSON data files
+│   ├── genres.json       # Genre definitions
+│   ├── areas.json        # Area data (8 regions)
+│   ├── properties.json   # Sample properties
+│   ├── faq.json          # FAQ content
+│   └── quiz.json         # Quiz questions
+├── lib/                   # Utility functions
+│   ├── data.ts           # Data fetching
+│   └── quiz-logic.ts     # Quiz scoring
+└── types/                 # TypeScript types
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Deployment to Vercel
 
-## Deploy on Vercel
+### Option 1: Import from GitHub
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Go to [vercel.com](https://vercel.com)
+2. Click "Import Project"
+3. Select your GitHub repository
+4. Deploy (no environment variables needed)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Option 2: Vercel CLI
+
+```bash
+# Install Vercel CLI
+npm i -g vercel
+
+# Deploy
+vercel
+```
+
+## Customization
+
+### Replacing Demo Data
+
+All content is stored in JSON files under `src/data/`:
+
+1. **Areas** (`areas.json`): Add/edit regions with details like price ranges, highlights, fit assessments
+2. **Properties** (`properties.json`): Replace with real listings
+3. **Genres** (`genres.json`): Customize interest categories
+4. **FAQ** (`faq.json`): Update with your FAQ content
+5. **Quiz** (`quiz.json`): Modify questions and scoring logic
+
+### Styling
+
+- Colors defined in `src/app/globals.css` using CSS variables
+- Design system: Modern × Japanese (朱色/藍色 accent colors)
+- Fully responsive with dark mode support
+
+### Adding Backend
+
+The contact form currently logs to console. To connect to a backend:
+
+1. Create an API route in `src/app/api/contact/route.ts`
+2. Connect to your email service (SendGrid, Resend, etc.) or CRM
+3. Update the form submission handler in `src/app/contact/page.tsx`
+
+## Pages Overview
+
+| Page | Path | Description |
+|------|------|-------------|
+| Home | `/` | Hero, genre grid, featured properties, quiz CTA |
+| Genre | `/genre/[slug]` | Interest-based area discovery |
+| Area Guide | `/area/[slug]` | Detailed region information |
+| Properties | `/properties` | All property listings |
+| Why Japan | `/why-japan` | Buying guide, FAQ |
+| Contact | `/contact` | Lead generation form |
+| Quiz | `/quiz` | Interactive matching quiz |
+
+## SEO Features
+
+- Meta tags and OpenGraph configured
+- Static generation for genre and area pages
+- Semantic HTML structure
+- Mobile-first responsive design
+
+## License
+
+Private - All rights reserved
+
+---
+
+Built with Next.js and deployed on Vercel.
