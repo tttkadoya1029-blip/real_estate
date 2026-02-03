@@ -67,6 +67,18 @@ export interface FAQ {
 }
 
 // Quiz Types
+export type AreaId =
+  | 'tokyo'
+  | 'osaka'
+  | 'kyoto'
+  | 'fukuoka'
+  | 'hokkaido'
+  | 'okinawa'
+  | 'nagano'
+  | 'yokohama';
+
+export type ScoreMap = Partial<Record<AreaId, number>>;
+
 export interface QuizQuestion {
   id: number;
   question: string;
@@ -75,7 +87,7 @@ export interface QuizQuestion {
 
 export interface QuizOption {
   text: string;
-  scores: Record<string, number>;
+  scores: ScoreMap;
 }
 
 export interface QuizResult {

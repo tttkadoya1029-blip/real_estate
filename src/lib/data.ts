@@ -6,7 +6,7 @@ import quizDataRaw from '@/data/quiz.json';
 import type { Genre, Area, Property, FAQ, QuizQuestion } from '@/types';
 
 // Type assertion for quiz data to handle varying score keys
-const quizData = quizDataRaw as {
+const quizData = quizDataRaw as unknown as {
   questions: QuizQuestion[];
   propertyTypeMapping: Record<string, string[]>;
 };

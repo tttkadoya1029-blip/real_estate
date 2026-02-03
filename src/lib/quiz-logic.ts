@@ -20,7 +20,7 @@ export function calculateQuizResults(answers: QuizAnswers): QuizResult[] {
       const selectedOption = question.options[optionIndex];
 
       Object.entries(selectedOption.scores).forEach(([area, score]) => {
-        areaScores[area] = (areaScores[area] || 0) + score;
+        areaScores[area] = (areaScores[area] || 0) + (score ?? 0);
       });
     }
   });
