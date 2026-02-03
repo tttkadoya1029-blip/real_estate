@@ -2,8 +2,14 @@ import genresData from '@/data/genres.json';
 import areasData from '@/data/areas.json';
 import propertiesData from '@/data/properties.json';
 import faqData from '@/data/faq.json';
-import quizData from '@/data/quiz.json';
+import quizDataRaw from '@/data/quiz.json';
 import type { Genre, Area, Property, FAQ, QuizQuestion } from '@/types';
+
+// Type assertion for quiz data to handle varying score keys
+const quizData = quizDataRaw as {
+  questions: QuizQuestion[];
+  propertyTypeMapping: Record<string, string[]>;
+};
 
 // Genres
 export function getGenres(): Genre[] {
